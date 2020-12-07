@@ -1,0 +1,13 @@
+:Miguel
+aTIla;rua la;3224526;ajosnda
+atila;rua si;1251636;ajosnda
+ana;rua do;3221253;ajosnda
+robetin;av b;311245;@sfsd
+:Ana
+aTIla;rua la;3224526;ajosnda
+atila;rua si;1251636;ajosnda
+miguel;rua re;1234645;ajosnda
+:Atila
+miguel;rua re;1234645;ajosnda
+ana;rua do;3221253;ajosnda
+roberto;av b;311245;@sfsd
