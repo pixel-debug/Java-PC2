@@ -21,10 +21,6 @@ ana;rua do;3221253;ajosnda*/
  * and open the template in the editor.
  */
 
-/**
- *
- * @author italo
- */
 public class Principal {
     public static Scanner sc = new Scanner(System.in);
     
