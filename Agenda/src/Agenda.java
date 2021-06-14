@@ -7,10 +7,7 @@ import java.util.ArrayList;
  * and open the template in the editor.
  */
 
-/**
- *
- * @author italo
- */
+
 public class Agenda {
     private String dono;
     private ArrayList<Contato> contatos;
