@@ -14,10 +14,7 @@ import java.util.Scanner;
  * and open the template in the editor.
  */
 
-/**
- *
- * @author italo
- */
+
 public class FileAgenda {
     public ArrayList<Agenda> agendas;
     private Scanner sc;
